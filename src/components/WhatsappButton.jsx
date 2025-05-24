@@ -26,7 +26,7 @@ const WhatsappButton = () => {
 
       {/* WhatsApp Butonu */}
       <a
-        href="https://wa.me/905531398204?text=Merhaba%20Umay%20Ana%20Mağazasına%20Hoşgeldiniz"
+        href="https://wa.me/905531398203?text=Merhaba%20Umay%20Ana%20Mağazasına%20Hoşgeldiniz"
         target="_blank"
         rel="noopener noreferrer"
         className={`flex items-center justify-center w-20 h-20 bg-[#25D366] hover:bg-[#128C7E] text-white rounded-full shadow-2xl hover:scale-110 transition-all duration-300 ${

@@ -15,7 +15,7 @@ const Footer = () => {
         {/* İletişim Bilgileri */}
         <div className="text-center text-gray-600 text-sm sm:text-base space-y-1">
           <p>📧 umayana.med@gmail.com</p>
-          <p>📞 +90 553 139 82 04</p>
+          <p>📞 +90 553 139 82 03</p>
         </div>
 
         {/* Telif */}
